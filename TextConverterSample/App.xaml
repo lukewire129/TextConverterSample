@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="TextConverterSample.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cnvt="clr-namespace:TextConverterSample.Converter"
+    xmlns:local="clr-namespace:TextConverterSample"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+    </Application.Resources>
+</Application>
